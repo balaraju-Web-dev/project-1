@@ -56,15 +56,19 @@ cd netflix-clone
 Install the required packages and dependencies using npm:
 
 npm install
-Usage
-Register for an account or use the provided demo credentials to log in.
-Explore the extensive library of movies and TV shows.
-Click on a title to view more details and initiate video playback.
-Use the search feature to find specific content quickly.
-Enjoy a seamless streaming experience akin to Netflix!
+## Usage
 
-Contributing
+1. Register for an account or use the provided demo credentials to log in.
+2. Explore the extensive library of movies and TV shows.
+3. Click on a title to view more details and initiate video playback.
+4. Use the search feature to find specific content quickly.
+5. Enjoy a seamless streaming experience akin to Netflix!
+
+
+## Contributing
+
 We welcome contributions to the Netflix Clone project. If you'd like to make significant changes or add new features, please open an issue to discuss your proposed changes before submitting a pull request.
+
 
 
 Acknowledgments
